@@ -1,18 +1,12 @@
-Hi there! 👋 I'm Abhishek, a Software Engineer focusing on AI and Full Stack Development.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=System+Online...;Initializing+NeuroSync+AI...;Welcome+to+my+Command+Center" alt="Typing SVG" />
+</div>
 
-### 🚀 What I'm currently working on
-* **NeuroSync AI**: An autonomous, multi-agent second brain built with Python, Next.js, and Gemini.
+<div align="center">
+  <img src="github-metrics.svg" alt="Futuristic Metrics Dashboard" />
+</div>
 
-### 🛠️ Tech Stack & Tools
-* **Languages**: Python, TypeScript, JavaScript
-* **Frontend**: Next.js, React, Tailwind CSS
-* **Backend**: FastAPI, Node.js
-* **Database**: PostgreSQL, Redis
-* **Cloud & DevOps**: Google Cloud Platform (GCP), Docker, GitHub Actions
-* **AI/ML**: Google Gemini, Agentic AI Systems
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aj2280&show_icons=true&theme=transparent&hide_border=true&title_color=6366f1&text_color=ffffff&bg_color=0d1117" alt="Aj2280's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aj2280&theme=transparent&hide_border=true&title_color=6366f1&text_color=ffffff&bg_color=0d1117" alt="Aj2280's GitHub Streak" />
-</p>
+### 🚀 Core Systems
+* **NeuroSync AI**: Autonomous multi-agent production system.
+* **Architecture**: Next.js, FastAPI, PostgreSQL, Google Cloud Run
+* **Status**: Operational 🟢
