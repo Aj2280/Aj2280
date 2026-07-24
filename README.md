@@ -5,8 +5,8 @@
   
   *Architecting Intelligence: From Autonomous Agents to Scalable AI Infrastructure*
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
-  [![Twitter](https://img.shields.io/badge/Twitter-Follow-black?style=for-the-badge&logo=x)](https://twitter.com/YOUR_TWITTER)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abhishek-jadhav-3a1b0b260/)
+  [![Twitter](https://img.shields.io/badge/Twitter-Follow-black?style=for-the-badge&logo=x)](https://x.com/AbhishekJa78733)
 
 </div>
 
