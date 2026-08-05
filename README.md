@@ -58,10 +58,9 @@ A robust, Claude Artifacts-style intelligent workspace supporting live previews,
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aj2280&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Abhi's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aj2280&theme=tokyonight&hide_border=true&background=0D1117" alt="Abhi's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aj2280&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Abhi's GitHub Stats" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=Aj2280&theme=tokyonight&hide_border=true&background=0D1117" alt="Abhi's Streak" height="180" />
 </div>
-
 ---
 <div align="center">
   <i>"The future belongs to those who build the agents that build the future."</i><br>
