@@ -59,7 +59,7 @@ A robust, Claude Artifacts-style intelligent workspace supporting live previews,
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-abhishekjadhav2280-gmailcoms-projects.vercel.app/api?username=Aj2280&show_rank=true&show_icons=true&hide=contribs&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Abhi's GitHub Stats" height="180" />
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Aj2280&show_rank=true&show_icons=true&hide=contribs&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Abhi's GitHub Stats" height="180" />
   </a>
   &nbsp;
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
@@ -71,7 +71,7 @@ A robust, Claude Artifacts-style intelligent workspace supporting live previews,
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-abhishekjadhav2280-gmailcoms-projects.vercel.app/api/top-langs/?username=Aj2280&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Abhi's Most Used Languages" height="180" />
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Aj2280&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Abhi's Most Used Languages" height="180" />
   </a>
 </div>
 
