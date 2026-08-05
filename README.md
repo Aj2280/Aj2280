@@ -58,10 +58,25 @@ A robust, Claude Artifacts-style intelligent workspace supporting live previews,
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aj2280&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Abhi's GitHub Stats" height="180" />
-  <img src="https://streak-stats.demolab.com/?user=Aj2280&theme=tokyonight&hide_border=true&background=0D1117" alt="Abhi's Streak" height="180" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-abhishekjadhav2280-gmailcoms-projects.vercel.app/api?username=Aj2280&show_rank=true&show_icons=true&hide=contribs&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Abhi's GitHub Stats" height="180" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Aj2280&theme=tokyonight&hide_border=true&background=0D1117" alt="Abhi's Streak" height="180" />
+  </a>
 </div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-abhishekjadhav2280-gmailcoms-projects.vercel.app/api/top-langs/?username=Aj2280&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Abhi's Most Used Languages" height="180" />
+  </a>
+</div>
+
 ---
+
 <div align="center">
   <i>"The future belongs to those who build the agents that build the future."</i><br>
 </div>
