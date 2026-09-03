@@ -7,6 +7,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abhishek-jadhav-3a1b0b260/)
   [![Twitter](https://img.shields.io/badge/Twitter-Follow-black?style=for-the-badge&logo=x)](https://x.com/AbhishekJa78733)
+  [![Sponsor](https://img.shields.io/badge/Sponsor-💖-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Aj2280)
 
 </div>
 
@@ -52,6 +53,24 @@ A scalable microservices architecture enabling autonomous collaboration between 
 A robust, Claude Artifacts-style intelligent workspace supporting live previews, file/camera parsing, and autonomous tool usage.
 - **Tech Stack:** Python, 7 AI Provider APIs, Document Parsing
 - **Impact:** Serves as a unified OS layer for AI interactions, streamlining prompt engineering and rapid prototyping across 9 built-in tools.
+
+---
+
+## 💖 Support & Sponsorship
+
+If you find my open-source work (like **[Agent-OS](https://github.com/Aj2280/Agent-OS)**) valuable, consider sponsoring me! Your support helps cover frontier LLM tokens and cloud infrastructure for live multi-agent demos.
+
+<div align="center">
+
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor_on_GitHub-💖_Support_My_Work-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Aj2280)
+
+</div>
+
+### 🌟 Sponsor Tiers & Perks:
+- **☕ $5/mo (Coffee & Cloud Credits):** Sponsor badge + shoutout in README.
+- **⚡ $15/mo (Agent Power User):** Early access to experimental agent features & priority issue triage.
+- **🛠️ $50/mo (Developer Backer):** Logo in `Agent-OS` & profile README + 1-on-1 architecture review / technical advisory.
+- **🥇 $150–$500/mo (Enterprise Partners):** Prominent logo & backlink, priority feature development, and custom GenAI advisory.
 
 ---
 
