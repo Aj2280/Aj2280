@@ -40,6 +40,15 @@ I am a Software Architect and AI Engineer focused on building **multi-model auto
 
 ---
 
+## 🔥 Open-Source Contributions — BasedHardware / Omi
+**Active Contributor & Paid Bounty Developer** · [github.com/BasedHardware/omi](https://github.com/BasedHardware/omi)
+- 🚀 **15+ Approved & Merged PRs** shipped to a live, actively-maintained AI wearable platform under strict maintainer code review.
+- 🛠️ **Developer Docs & CLI SDK:** Authored developer documentation and quickstarts for `omi-cli` SDK covering auth flows, CLI command reference, and cross-platform setup.
+- 🛡️ **Reliability & Testing:** Shipped mutation guard tests, payload boundary guards, and client pooling logic into production workflows.
+- 👉 **[View My Merged PRs on BasedHardware/omi](https://github.com/BasedHardware/omi/pulls?q=is%3Apr+author%3AAj2280)**
+
+---
+
 ## 🏆 Featured AI Projects
 
 ### 🧠 [NeuroSync AI](https://github.com/Aj2280/Aj2280) 
