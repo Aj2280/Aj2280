@@ -1,110 +1,134 @@
 <div align="center">
-  
-  # Hi there, I'm Abhi! 👋
-  ### 🤖 AI Engineer | Software Architect | Multi-Model Systems Expert
-  
-  *Architecting Intelligence: From Autonomous Agents to Scalable AI Infrastructure*
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abhishek-jadhav-3a1b0b260/)
-  [![Twitter](https://img.shields.io/badge/Twitter-Follow-black?style=for-the-badge&logo=x)](https://x.com/AbhishekJa78733)
-  [![Sponsor](https://img.shields.io/badge/Sponsor-💖-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Aj2280)
+  <!-- Header Typing Animation -->
+  <a href="https://github.com/Aj2280">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Hey+there%2C+I'm+Abhi+%E2%9C%A8;AI+Engineer+%26+Software+Architect+%F0%9F%A4%96;Building+Autonomous+Multi-Agent+System+%E2%9A%A1;Shipping+Scalable+GenAI+Infrastructure+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <strong>Architecting Intelligence: Multi-Agent Systems • Production RAG • Scalable Cloud Backends</strong>
+  </p>
+
+  <!-- Clean Social Pills -->
+  <p align="center">
+    <a href="https://linkedin.com/in/abhishek-jadhav-3a1b0b260/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="https://x.com/AbhishekJa78733" target="_blank">
+      <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter/X" />
+    </a>
+    &nbsp;
+    <a href="https://huggingface.co/Abhi2280" target="_blank">
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/sponsors/Aj2280" target="_blank">
+      <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=flat-square&logo=githubsponsors&logoColor=white" alt="Sponsor" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+### ⚡ Executive Summary
+
+I am a **Software Architect and AI Engineer** building production-grade **multi-agent architectures**, **high-performance RAG pipelines**, and **scalable cloud backends**. I focus on turning experimental frontier AI models into resilient, enterprise-ready systems.
+
+- 🔭 **Building:** Autonomous agent swarms with stateful multi-model orchestration.
+- 🚀 **Open Source:** Active contributor with **15+ merged PRs** on [`BasedHardware/omi`](https://github.com/BasedHardware/omi) (AI wearables ecosystem).
+- 🧠 **Focus Areas:** Multi-Agent Consensus, LLM Tool Routing, Vector Retrieval, Low-Latency Streaming APIs.
+- 💬 **Ask me about:** Python/FastAPI backends, Next.js architecture, Agentic AI frameworks, and PostgreSQL tuning.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+  <!-- Modern Unified Skill Icons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,typescript,postgres,redis,nextjs,react,tailwind,docker,gcp,git&theme=dark" alt="Tech Stack Icons" />
+  </a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **AI & LLM Orchestration** | OpenAI, Claude, LangChain, AutoGen, Hugging Face, PyTorch, RAG Pipelines |
+| **Backend & Databases** | Python, FastAPI, Node.js, TypeScript, PostgreSQL, Redis, REST & SSE |
+| **Frontend & UI/UX** | React, Next.js, Tailwind CSS, TypeScript, Vite |
+| **DevOps & Cloud** | Google Cloud Platform (GCP), Docker, GitHub Actions, Linux, CI/CD |
 
 </div>
 
 ---
 
-## 🚀 About Me
+### 🏆 Featured Projects & Contributions
 
-I am a Software Architect and AI Engineer focused on building **multi-model autonomous agents**, **RAG systems**, and **scalable production backends**. I thrive at the intersection of modern web development and advanced Artificial Intelligence, creating tools that automate complex workflows and deliver premium digital experiences.
-
-- 🔭 **Currently working on:** `NeuroSync AI` - An autonomous multi-agent production system.
-- 🌱 **Currently exploring:** Advanced RAG architectures, Agentic Frameworks (LangChain/AutoGen), and edge-deployed LLMs.
-- 👯 **Looking to collaborate on:** Open-source GenAI projects and autonomous agent frameworks.
-- ⚡ **Fun fact:** I love experimenting with AI-driven UI/UX and live-preview coding tools!
-
----
-
-## 🛠️ Technical Arsenal
-
-### 🧠 Artificial Intelligence & LLMs
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Claude_&_Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Abhi2280)
-
-### 💻 Backend & Architecture
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-### 🎨 Frontend & Tools
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
-
-### ☁️ Cloud & DevOps
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
----
-
-## 🔥 Open-Source Contributions — BasedHardware / Omi
-**Active Contributor & Paid Bounty Developer** · [github.com/BasedHardware/omi](https://github.com/BasedHardware/omi)
-- 🚀 **15+ Approved & Merged PRs** shipped to a live, actively-maintained AI wearable platform under strict maintainer code review.
-- 🛠️ **Developer Docs & CLI SDK:** Authored developer documentation and quickstarts for `omi-cli` SDK covering auth flows, CLI command reference, and cross-platform setup.
-- 🛡️ **Reliability & Testing:** Shipped mutation guard tests, payload boundary guards, and client pooling logic into production workflows.
-- 👉 **[View My Merged PRs on BasedHardware/omi](https://github.com/BasedHardware/omi/pulls?q=is%3Apr+author%3AAj2280)**
-
----
-
-## 🏆 Featured AI Projects
-
-### 🧠 [NeuroSync AI](https://github.com/Aj2280/Aj2280) 
-**Autonomous Multi-Agent Production System**
-A scalable microservices architecture enabling autonomous collaboration between multiple AI agents. 
-- **Tech Stack:** Next.js, FastAPI, PostgreSQL, Google Cloud Run
-- **Impact:** Reduces complex workflow execution time by parallelizing reasoning tasks across specialized agent models.
-
-### ⚡ [Agent-OS](https://github.com/Aj2280/Agent-OS)
-**Autonomous Multi-Model AI Workspace**
-A robust, Claude Artifacts-style intelligent workspace supporting live previews, file/camera parsing, and autonomous tool usage.
-- **Tech Stack:** Python, 7 AI Provider APIs, Document Parsing
-- **Impact:** Serves as a unified OS layer for AI interactions, streamlining prompt engineering and rapid prototyping across 9 built-in tools.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ <a href="https://github.com/Aj2280/Agent-OS">Agent-OS</a></h4>
+      <p><em>Autonomous Multi-Model AI Workspace</em></p>
+      <p>An intelligent, Artifacts-style agent workspace featuring real-time code execution previews, multi-modal document parsing, camera feeds, and automated multi-LLM tool routing across 7+ model providers.</p>
+      <p><code>Python</code> • <code>Multi-LLM</code> • <code>Tool Routing</code> • <code>Live Sandbox</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📈 <a href="https://github.com/Aj2280/AtlasAI-Financial-Assistant">AtlasAI Financial Assistant</a></h4>
+      <p><em>Multi-Agent Quantitative Financial Intelligence</em></p>
+      <p>A multi-modal quantitative advisory engine combining live financial market streams, balance-sheet extraction, and deterministic reasoning for portfolio risk analysis.</p>
+      <p><code>FastAPI</code> • <code>Quantitative RAG</code> • <code>Telemetry</code> • <code>PostgreSQL</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 <a href="https://github.com/Aj2280/advanced-multi-agent">Advanced Multi-Agent Swarm</a></h4>
+      <p><em>Distributed Microservices Architecture for Agent Systems</em></p>
+      <p>A scalable orchestration engine enabling parallel reasoning trees and automated task consensus across specialized agent swarms with Redis Pub/Sub.</p>
+      <p><code>Next.js</code> • <code>Cloud Run</code> • <code>Microservices</code> • <code>Redis</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 <a href="https://github.com/BasedHardware/omi/pulls?q=is%3Apr+author%3AAj2280">BasedHardware / Omi (Core Contributor)</a></h4>
+      <p><em>Open-Source AI Wearable Ecosystem</em></p>
+      <p>Shipped <strong>15+ approved production PRs</strong>: authored <code>omi-cli</code> SDK documentation, built boundary guards, connection pooling, and mutation testing suites.</p>
+      <p><code>Open Source</code> • <code>CLI SDK</code> • <code>Wearable AI</code> • <code>Production PRs</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💖 Support & Sponsorship
-
-If you find my open-source work (like **[Agent-OS](https://github.com/Aj2280/Agent-OS)**) valuable, consider sponsoring me! Your support helps cover frontier LLM tokens and cloud infrastructure for live multi-agent demos.
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
-
-[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor_on_GitHub-💖_Support_My_Work-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Aj2280)
-
-</div>
-
-### 🌟 Sponsor Tiers & Perks:
-- **☕ $5/mo (Coffee & Cloud Credits):** Sponsor badge + shoutout in README.
-- **⚡ $15/mo (Agent Power User):** Early access to experimental agent features & priority issue triage.
-- **🛠️ $50/mo (Developer Backer):** Logo in `Agent-OS` & profile README + 1-on-1 architecture review / technical advisory.
-- **🥇 $150–$500/mo (Enterprise Partners):** Prominent logo & backlink, priority feature development, and custom GenAI advisory.
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Aj2280&show_rank=true&show_icons=true&hide=contribs&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Abhi's GitHub Stats" height="180" />
+  <!-- Dynamic Stats Card & Streak Card (Aligned & High Contrast) -->
+  <a href="https://github.com/Aj2280">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Aj2280&show_icons=true&show_rank=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F43F5E&text_color=94A3B8" alt="GitHub Stats" height="175" />
   </a>
   &nbsp;
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Aj2280&theme=tokyonight&hide_border=true&background=0D1117" alt="Abhi's Streak" height="180" />
+  <a href="https://github.com/Aj2280">
+    <img src="https://streak-stats.demolab.com/?user=Aj2280&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F43F5E&currStreakLabel=38BDF8" alt="GitHub Streak" height="175" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Aj2280&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Abhi's Most Used Languages" height="180" />
+  <!-- Top Languages Card -->
+  <a href="https://github.com/Aj2280">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Aj2280&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&langs_count=8" alt="Top Languages" height="175" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <i>"The future belongs to those who build the agents that build the future."</i><br>
+  <sub>Let's connect and build something extraordinary!</sub><br />
+  <sub><i>"The future belongs to those who build the autonomous systems that build the future."</i></sub>
 </div>
