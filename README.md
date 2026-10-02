@@ -2,7 +2,7 @@
 
   <!-- Header Typing Animation -->
   <a href="https://github.com/Aj2280">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Hey+there%2C+I'm+Abhi+%E2%9C%A8;AI+Engineer+%26+Software+Architect+%F0%9F%A4%96;Building+Autonomous+Multi-Agent+System+%E2%9A%A1;Shipping+Scalable+GenAI+Infrastructure+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Hey+there%2C+I'm+Abhi+%E2%9C%A8;AI+Engineer+%26+Software+Architect+%F0%9F%A4%96;Building+Autonomous+Multi-Agent+System+%E2%9A%A1;Shipping+Scalable+GenAI+Infra+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <p align="center">
