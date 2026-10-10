@@ -108,30 +108,6 @@ I am a **Software Architect and AI Engineer** building production-grade **multi-
 
 ---
 
-### 💖 Support My Work & Open-Source Research (Polar.sh)
-
-If you find my autonomous agent systems, AI architectures, or production open-source contributions valuable, consider backing me on [Polar](https://polar.sh/avlmt):
-
-<div align="center">
-  <a href="https://polar.sh/avlmt" target="_blank">
-    <img src="https://polar.sh/embed/subscribe.svg?org=avlmt&label=Subscribe%20on%20Polar" alt="Subscribe on Polar" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-
-| Tier | Investment | What You Get | Subscribe |
-| :--- | :--- | :--- | :--- |
-| **Community Supporter** | **$5** / month | Discord backer status, exclusive project updates, and direct OSS support | [Join Tier](https://polar.sh/avlmt/subscriptions) |
-| **Developer Backer** | **$15** / month | Priority issue & PR code reviews, early architecture access, and direct Q&A | [Join Tier](https://polar.sh/avlmt/subscriptions) |
-| **Enterprise Sponsor** | **$50** / month | Monthly 1-on-1 advisory call, logo attribution on top repos, and tailored agent workflows | [Join Tier](https://polar.sh/avlmt/subscriptions) |
-
-</div>
-
----
-
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
